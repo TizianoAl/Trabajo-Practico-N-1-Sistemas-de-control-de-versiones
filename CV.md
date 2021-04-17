@@ -1,6 +1,10 @@
 CURRICULUM VITAE
 ========================
+<<<<<<< HEAD
 Cambio 2
+=======
+Cambio 1
+>>>>>>> da7066fc074551ec724e817f54a459f54560379d
 
 ## DATOS PERSONALES                                                                    
 
